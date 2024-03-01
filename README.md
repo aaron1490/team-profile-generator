@@ -5,6 +5,7 @@
 
 ## Table of Contents
 - [Description](#description)
+- [Demonstration](#demonstration)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -16,6 +17,24 @@
 ## Description
 
 With this project, the user can quickly generate a profile for each of the team members (based on their role within the team) including role, ID number, email, github account info, phone number and school they attend.
+
+## Demonstration
+
+After running the application, you should see the following:
+
+![team-profile-generator](./assets//images/example%201.png)
+
+---
+
+Below image shows how you can use arrow keys to select the role of each employee.
+
+![Role selection demo](./assets/images/selection.png)
+
+---
+Below you can see the final product of what the HTML page should look like once generated.
+
+![page-demo](./assets/images/page%20demo.png)
+---
 
 ## Installation
 1. Ensure you have node.js installed on your device.
@@ -35,6 +54,8 @@ N/A
 
 ## Test
 To run the testing suite, type ```npm run test``` in the terminal to run testing via Jest. Further details of the tests can be found within the __tests__ folder.
+
+![Test suite demo](./assets/images/Test%20suite.png)
 
 ## Get In Touch
 For any questions relating to the project, please feel free to get in touch with me via email at: [aaronarmstrong1490@gmail.com](mailto:aaronarmstrong1490@gmail.com)
