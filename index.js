@@ -15,7 +15,7 @@ const OUTPUT_DIR = path.resolve(__dirname, "output");
 const outputPath = path.join(OUTPUT_DIR, "team.html");
 
 // template for the HTML page
-const render = require("./src/page-template.js");
+const generateHTML = require("./src/page-template.js");
 
 // USER STORY
 // AS A manager
